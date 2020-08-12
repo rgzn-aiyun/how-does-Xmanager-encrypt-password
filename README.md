@@ -46,6 +46,9 @@ Make sure that you have installed `Python3`.
 
 Make sure that you have installed `pypiwin32`, `pycryptodome` module.
 
+pip3 install pycryptodome
+
+pip3 install pywin32
 ```
 Usage:
     XShellCryptoHelper.py <-e | -d>
